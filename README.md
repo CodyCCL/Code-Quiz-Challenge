@@ -27,7 +27,7 @@ WHEN the game is over
 THEN I can save my initials and my score
 ```
 ## Mock-Up
-![image](https://github.com/CodyCCL/Code-Quiz-Challenge/assets/142187489/6eb4d835-2de6-4005-803d-81a572f1f8ee)
+![image](https://github.com/CodyCCL/Code-Quiz-Challenge4/assets/142187489/bd6485d5-f903-4aff-a6ce-98f86b999e4a)
 
 ## Source Link
 
