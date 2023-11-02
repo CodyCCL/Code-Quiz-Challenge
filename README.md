@@ -1,6 +1,7 @@
-# Code-Quiz-Challenge4
+# Code-Quiz-Challenge4 (Description)
 ```
-A typical coding assessment includes both multiple-choice questions and interactive coding challenges.
+At some point in your journey to become a full-stack web developer, you’ll likely be asked to complete a coding assessment(perhaps as part of an interview process). A typical coding assessment includes both multiple-choice questions and interactive coding challenges.
+To help familiarize you with these tests and allow you to use the skills covered in this module, this Challenge invites you to build a timed coding quiz with multiple-choice questions. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean, polished, and responsive user interface. 
 ```
 ## User Story
 
@@ -25,7 +26,6 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and my score
 ```
-
 ## Mock-Up
 ![image](https://github.com/CodyCCL/Code-Quiz-Challenge/assets/142187489/6eb4d835-2de6-4005-803d-81a572f1f8ee)
 
